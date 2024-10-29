@@ -1,0 +1,16 @@
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.exe
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.deps.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.runtimeconfig.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.runtimeconfig.dev.json
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\ref\home _work2.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\bin\Debug\net5.0\home _work2.pdb
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.csproj.AssemblyReference.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.AssemblyInfoInputs.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.AssemblyInfo.cs
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\ref\home _work2.dll
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.pdb
+C:\Users\UsEr\Desktop\مجلد جديد (2)\home _work2\obj\Debug\net5.0\home _work2.genruntimeconfig.cache
